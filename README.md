@@ -1,2 +1,3 @@
 # youtube-dl-PY
-download youtube videos using ytdl.
+open cmd and type "py -m pip install youtube-dl --upgrade"
+
